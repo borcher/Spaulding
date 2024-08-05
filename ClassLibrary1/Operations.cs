@@ -75,6 +75,9 @@ namespace ClassLibrary1
         {
             return 0;
         }
-    
+        public decimal test2()
+        {
+            return 000;
+        }
     } 
 }
