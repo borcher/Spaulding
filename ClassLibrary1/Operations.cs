@@ -70,5 +70,11 @@ namespace ClassLibrary1
             }
             return totals;
         }
+    
+        public int test()
+        {
+            return 0;
+        }
+    
     } 
 }
